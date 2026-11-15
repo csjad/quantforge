@@ -1,6 +1,7 @@
-# 发布到 GitHub（一键备好，就差仓库与授权）
+# 发布到 GitHub（已完成）
 
-本地仓库已就绪：`E:\AI_Projects\Zcode\quantforge`，提交 `e412452` 等。
+✅ **仓库已上线**：`https://github.com/csjad/quantforge`（公开，main 分支）
+2026-11-16 通过本地已存凭据（csjad）经 API 建仓 + git push 完成。
 
 ## 方式 A（推荐，1 分钟）：网页建仓 → 弹窗授权
 
