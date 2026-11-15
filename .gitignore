@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 运行产物与用户数据（均可由 qf.py gen-sample / demo 重建）
+data/
+out/
+.taste-skill/
+*.db
+*.log
+console_err.log
+
+# 本地编辑器
+.idea/
+.vscode/
